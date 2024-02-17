@@ -1,2 +1,2 @@
-# 1st website
- 1st website Google clone
+# Google clone
+ Google clone
